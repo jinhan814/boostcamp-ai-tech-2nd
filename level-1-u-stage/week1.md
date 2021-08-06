@@ -4,7 +4,7 @@
 
 - [[기초 복습] Python Basics for AI](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5-python-basics-for-ai)
 
-- [[기초 복습] AI Math](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5-python-basics-for-ai)
+- [[기초 복습] AI Math](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5-ai-math)
 
 - [[보충 자료] Python & AI Math](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5-python-basics-for-ai)
 
