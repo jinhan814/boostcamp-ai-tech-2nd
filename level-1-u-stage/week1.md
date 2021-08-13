@@ -2,13 +2,13 @@
 
 `2021.08.02 - 2021.08.06`
 
-- [[기초 복습] Python Basics for AI](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5-python-basics-for-ai)
+- [[General] Python Basics for AI](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#general-python-basics-for-ai)
 
-- [[기초 복습] AI Math](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5-ai-math)
+- [[General] AI Math](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#general-ai-math)
 
-- [[보충 자료] Python & AI Math](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5-python-basics-for-ai)
+- [[Special] Python & AI Math](https://github.com/jinhan814/boostcamp-ai-tech-2nd/blob/main/level-1-u-stage/week1.md#special-python-basics-for-ai)
 
-## [기초 복습] Python Basics for AI
+## [General] Python Basics for AI
 
 - 얕은 복사, 깊은 복사 - mutable, immutable
 
@@ -30,7 +30,7 @@
 
 - pandas
 
-## [기초 복습] AI Math
+## [General] AI Math
 
 - vector, matrix
 
@@ -52,7 +52,7 @@
 
 - RNN
 
-## [보충 자료] Python & AI Math
+## [Special] Python & AI Math
 
 - [3Blue1Brown - Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
