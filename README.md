@@ -13,7 +13,7 @@
 - Level 1. U Stage (week 1 ~ 3)
   - Python
   - AI Math
-  - DL Basic
+  - DL Basics
   - PyTorch
 
 <br>
@@ -24,7 +24,7 @@
 <br>
 
 - Level 2. U Stage (week 6 ~ 8)
-  - CV Basic
+  - CV Basics
 
 <br>
 
