@@ -1,6 +1,6 @@
 # Deep Learning Basics
 
-- ## Historical Review
+- ## 1. Historical Review
   
   - 딥러닝에 대한 소개: CNN(Convolutional neural networks), RNN(Recurrent Neural Networks)와 같은 딥러닝 모델을 공부하기 전 중요한 요소인 Data, Model, Loss, Optimization algorithms에 대해 배웁니다.
 
@@ -12,7 +12,7 @@
 
 <br>
 
-- ## Neural Networks & Multi-Layer Perceptron
+- ## 2. Neural Networks & Multi-Layer Perceptron
   
   - 신경망(Neural Networks): 간단한 Linear neural network 를 예시로 Data, Model, Loss, Optimization algorithm 을 정의해보는 시간을 가집니다.
   
@@ -32,11 +32,11 @@
   
   - Further Reading
     
-    - [pytorch official docs](https://pytorch.org/docs/stable/nn.html#)
+    - [pytorch docs _ nn](https://pytorch.org/docs/stable/nn.html#)
 
 <br>
 
-- ## Optimization Methods
+- ## 3. Optimization Methods
   
   - Keywords : Generalization, Overfitting, Cross-validation
 
@@ -62,19 +62,7 @@
 
       - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836)
 
-    - SGD
-
-    - Momentum
-
-    - Nesterov accelerated gradient
-
-    - Adagrad
-
-    - Aadelta
-
-    - RMSprop
-
-    - Adam
+    - SGD, Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam
 
   - Regularization
     
@@ -110,9 +98,11 @@
 
 <br>
 
-- ## Convolutional Neural Networks
+- ## 4. Convolutional Neural Networks
   
-  - 
+  - CNN에 대한 공부를 하기 전에 Convolution의 정의, convolution 연산 방법과 기능에 대해 배웁니다.
+  
+  - Convolution, 입력을 축소하는 Pooling layer, 모든 노드를 연결하여 최종적인 결과를 만드는 Fully connected layer 로 구성되는 기본적인 CNN(Convolutional Neural Network) 구조에 대해 배웁니다.
 
   - Convloutional Neural Network 실습
 
@@ -124,30 +114,58 @@
 
 <br>
 
-- ## Modern CNN
+- ## 5. Modern CNN
+  
+  - ILSVRC 대회에서 수상을 했던 5개 Network 들의 주요 아이디어와 구조에 대해 배웁니다.
+
+  - Network List
+
+    - AlexNet
+
+      - 최초로 Deep Learning을 이용하여 ILSVRC에서 수상
+
+    - VGGNet
+
+      - 3x3 Convolution을 이용하여 Receptive field는 유지하면서 더 깊은 네트워크를 구성
+
+      - [Receptive field 참고 자료](https://cs231n.github.io/convolutional-networks/#conv)
+
+    - GoogLeNet
+
+      - Inception block을 제안
+
+    - ResNet
+
+      - Residual connection(Skip connection)이라는 구조를 제안
+
+      - h(x) = f(x) + x의 구조
+
+    - DenseNet
+
+      - Resnet과 비슷한 아이디어지만 Addition이 아닌 Concatenation을 적용한 CNN
+
+  - [pytorch docs _ models](https://pytorch.org/vision/stable/models.html)
+
+<br>
+
+- ## 6. Computer Vision Applications
   
   - 
 
 <br>
 
-- ## Computer Vision Applications
+- ## 7. Recurrent Neural Networks
   
   - 
 
 <br>
 
-- ## Recurrent Neural Networks
+- ## 8. Transformer
   
   - 
 
 <br>
 
-- ## Transformer
-  
-  - 
-
-<br>
-
-- ## Generative Models
+- ## 9. Generative Models
   
   - 
