@@ -3,7 +3,9 @@
 ## Goals
 
 - Implementing DeepFaceDrawing Paper
+  - http://geometrylearning.com/DeepFaceDrawing/
   - http://www.geometrylearning.com/paper/DeepFaceDrawing.pdf
+  - http://geometrylearning.com/paper/DeepFaceDrawing-supple.pdf
 
 ## Model Structure
 
