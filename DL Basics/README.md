@@ -10,8 +10,6 @@
     
     - [A Brief Historical Review _ Denny Britz](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
-<br>
-
 - ## 2. Neural Networks & Multi-Layer Perceptron
   
   - 신경망(Neural Networks): 간단한 Linear neural network 를 예시로 Data, Model, Loss, Optimization algorithm 을 정의해보는 시간을 가집니다.
@@ -34,7 +32,7 @@
     
     - [pytorch docs _ nn](https://pytorch.org/docs/stable/nn.html#)
 
-<br>
+    - [Neural Network and Deep Learning _ Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
 - ## 3. Optimization Methods
   
@@ -96,8 +94,6 @@
     
     - [AdamP Github](https://github.com/clovaai/AdamP)
 
-<br>
-
 - ## 4. Convolutional Neural Networks
   
   - CNN에 대한 공부를 하기 전에 Convolution의 정의, convolution 연산 방법과 기능에 대해 배웁니다.
@@ -111,8 +107,6 @@
   - Further Reading
     
     - [cs231n - Lecture 7: Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ)
-
-<br>
 
 - ## 5. Modern CNN
   
@@ -146,25 +140,17 @@
 
   - [pytorch docs _ models](https://pytorch.org/vision/stable/models.html)
 
-<br>
-
 - ## 6. Computer Vision Applications
   
   - 
-
-<br>
 
 - ## 7. Recurrent Neural Networks
   
   - 
 
-<br>
-
 - ## 8. Transformer
   
   - 
-
-<br>
 
 - ## 9. Generative Models
   

@@ -16,28 +16,18 @@
   - DL Basics
   - PyTorch
 
-<br>
-
 - Level 1. P Stage (week 4 ~ 5)
   - Image Classification
 
-<br>
-
 - Level 2. U Stage (week 6 ~ 8)
   - CV Basics
-
-<br>
 
 - Level 2. P Stage (week 9 ~ 14)
   - Object Detection
   - Semantic Segmentation
 
-<br>
-
 - Level 3. P Stage (week 15 ~ 20)
   - Product Serving
-
-<br>
 
 - Special Stage
   - Data Visualization
