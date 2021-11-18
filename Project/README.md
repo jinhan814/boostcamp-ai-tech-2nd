@@ -7,7 +7,7 @@
 
 ## Model Structure
 
-Part 1. Component Embedding Module (CE)
+Part 1. *Component Embedding Module*(CE)
 
 - Keywords
   - auto encoder(AE)
@@ -17,7 +17,7 @@ Part 1. Component Embedding Module (CE)
     - O(n) naive algorithm
     - O(n) preprocessing, O(logn) query algorithm using KD-Tree
     - hybrid algorithm using KD-Tree and naive algorithm
-  - interpolation, constrained least-square problem
+  - interpolation, constrained least-squares problem
 
 - input / output
   - input : (512 x 512) sketch image
@@ -29,7 +29,7 @@ Part 1. Component Embedding Module (CE)
   - Find k-nearest neighbor
   - interpolate KNN by using constrained least-square problem
 
-Part 2. Feature Mapping Module
+Part 2. *Feature Mapping Module*(FM)
 
 - Keywords
   - decoder
@@ -40,7 +40,7 @@ Part 2. Feature Mapping Module
   - input : (512) feature vector
   - output : (512 x 512 x 32) feature map
 
-Part 3. Image Synthesis Module
+Part 3. *Image Synthesis Module*(IS)
 
 - Keywords
   - GAN(https://arxiv.org/abs/1406.2661)
