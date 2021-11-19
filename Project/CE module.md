@@ -9,14 +9,14 @@
 
 - O(n) naive algorithm
 
-- O(n) preprocessing, O(logn) query algorithm using KD-Tree
+- O(nlogn) preprocessing, O(logn) query algorithm using KD-Tree
 
 - hybrid algorithm using KD-Tree and naive algorithm
 
 - references
-  - https://algoshitpo.github.io/2020/02/09/kdtree/
-  - https://www.acmicpc.net/source/17122484-
-  - https://www.acmicpc.net/source/33288297
+  - https://eclass.uoa.gr/modules/document/file.php/D42/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B5%CF%82/3a.tree.pdf
+  - https://github.com/spotify/annoy
+  - https://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup
 
 ## interpolation
 
